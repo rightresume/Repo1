@@ -1,0 +1,34 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2889-74A5
+
+ Directory of C:\Users\Santosh
+
+08/07/2022  08:11 PM    <DIR>          .
+08/07/2022  08:11 PM    <DIR>          ..
+08/07/2022  08:06 PM               379 .bash_history
+04/23/2022  10:02 PM    <DIR>          .cache
+04/23/2022  10:02 PM    <DIR>          .eclipse
+08/07/2022  07:28 PM                59 .gitconfig
+06/13/2022  08:55 PM    <DIR>          .lemminx
+07/13/2022  10:20 AM    <DIR>          .m2
+07/02/2022  06:31 PM    <DIR>          .ms-ad
+08/02/2022  10:44 AM    <DIR>          .p2
+04/23/2022  01:23 AM    <DIR>          3D Objects
+04/23/2022  01:23 AM    <DIR>          Contacts
+08/05/2022  10:19 AM    <DIR>          Desktop
+06/01/2022  06:15 PM    <DIR>          Documents
+08/05/2022  04:15 PM    <DIR>          Downloads
+04/23/2022  09:58 PM    <DIR>          eclipse
+07/13/2022  10:24 AM    <DIR>          eclipse-workspace
+04/23/2022  01:23 AM    <DIR>          Favorites
+08/07/2022  07:55 PM    <DIR>          GIT
+04/23/2022  01:23 AM    <DIR>          Links
+04/23/2022  01:23 AM    <DIR>          Music
+04/23/2022  01:27 AM    <DIR>          OneDrive
+04/23/2022  01:24 AM    <DIR>          Pictures
+04/23/2022  01:23 AM    <DIR>          Saved Games
+04/23/2022  01:24 AM    <DIR>          Searches
+08/07/2022  08:11 PM                 0 text1.txt
+04/25/2022  05:08 PM    <DIR>          Videos
+               3 File(s)            438 bytes
+              24 Dir(s)  79,901,310,976 bytes free
